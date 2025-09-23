@@ -6,6 +6,15 @@ I am not enrolled in the official, paid program — meaning I do not receive cer
 
 ---
 
+## Courses I Am Following:
+- 1st Elective: **Deep Learning for Computer Vision (Elective)**  
+
+Planned next courses:
+- 1 Required course: Artificial Intelligence: Principles and Techniques
+- 2 Additional electives (to reach 4 in total)
+
+I will update this list as I progress.
+
 ## Program Structure (Official)
 To officially complete the graduate program, students must take:
 - **At least 1 required course**

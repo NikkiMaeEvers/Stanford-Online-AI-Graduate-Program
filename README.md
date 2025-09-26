@@ -2,7 +2,7 @@
 
 This repository contains my personal notes, summaries, and projects while following courses from the [Stanford School of Engineering’s AI Graduate Program](https://online.stanford.edu/programs/artificial-intelligence-graduate-program).  
 
-I am not enrolled in the official, paid program — meaning I do not receive certificates or formal credit. Instead, I use these materials to **refresh and deepen my AI knowledge** after completing my **BSc and MSc in Artificial Intelligence**.
+I am not enrolled in the official I do not receive certificates or formal credit. Instead, I use these materials to **refresh and deepen my AI knowledge** after completing my **BSc and MSc in Artificial Intelligence**.
 
 ---
 

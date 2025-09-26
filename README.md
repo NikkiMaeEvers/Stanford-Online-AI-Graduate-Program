@@ -1,4 +1,4 @@
-# Stanford School of Engineering – AI Graduate Program (Unofficial)
+# Stanford – AI Graduate Program (Self-study)
 
 This repository contains my personal notes, summaries, and projects while following courses from the [Stanford School of Engineering’s AI Graduate Program](https://online.stanford.edu/programs/artificial-intelligence-graduate-program).  
 
